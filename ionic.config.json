@@ -1,0 +1,7 @@
+{
+  "name": "text-maxlength",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
